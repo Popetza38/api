@@ -53,7 +53,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/hndko/dramabox-rest-api-node.git
+git clone https://github.com/Popetza38/api.git
 cd dramabox-rest-api-node
 
 # ติดตั้ง dependencies
